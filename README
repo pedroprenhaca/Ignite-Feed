@@ -1,8 +1,8 @@
 ## Modulo 1 - Ignite Feed
-<img src="https://user-images.githubusercontent.com/71772559/178170317-063200c0-4605-491a-80df-421ae6eef864.png" align="center" />
-Durante este desafio, utilizamos os conceitos básicos do React desenvolvendo do zero uma simples lista de tarefas com as opções de criar e apagar um item da lista.
+<img src="https://user-images.githubusercontent.com/62861100/211447012-aaa2c132-ef77-4a26-bee0-4c473c08b3e1.png" align="center" />
+Durante esse modulo, utilizamos os conceitos básicos do React para desenvolver um feed de uma rede social.
 ### 🛠️ Nesse projeto foi utilizado
 * Vite
-* CSS Modules
+* styled-components
 * Typescript
-* Local Storage
+
